@@ -1,5 +1,5 @@
 # -Medical-Pharmacy-management-systemPharmacy Management System   
-This project is the extension of Medical management system downloaded from github.                                                                                        
+Overview
 The Pharmacy Management System is a desktop application designed to manage the various operations of a pharmacy, including placing orders for medicines, viewing order history, managing medicine stock, and processing payments. This application provides a user-friendly interface to facilitate these operations efficiently.
 Technologies Used
 •	Java: Core language for application development.
